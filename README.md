@@ -2,7 +2,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Amith Gowda</h1>
 
 <div align="center">
-  <img src="" alt="gowdaamith">
+  <img src="banner.png" alt="gowdaamith">
 </div>
 
 <p align="center">
