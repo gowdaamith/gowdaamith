@@ -73,10 +73,6 @@ I’m a Cloud and DevOps enthusiast passionate about automation, scalability, an
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gowdaamith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6d28&area=true&hide_border=false" alt="Activity Graph"/>
 </p>
 
----
 
-<h3 align="left">🏆 Top Repositories</h3>
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=gowdaamith&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Repositories"/>
 </p>
 
