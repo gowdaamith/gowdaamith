@@ -74,5 +74,5 @@ I’m a Cloud and DevOps enthusiast passionate about automation, scalability, an
 </p>
 
 
-</p>
+</p> 
 
