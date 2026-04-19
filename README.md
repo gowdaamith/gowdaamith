@@ -1,78 +1,64 @@
-
-<h1 align="center">Hey Everyone 👋, I'm Amith Gowda</h1>
-
 <div align="center">
-  <img src="banner.png" alt="gowdaamith">
+  <h1>🚀 Amith Gowda</h1>
+  <p><b>Cloud & DevOps Engineer </b></p>
+
+  <img src="https://img.shields.io/github/followers/gowdaamith?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=gowdaamith&label=Profile%20Views&color=blue&style=flat-square" />
 </div>
 
-<p align="center">
-I’m a Cloud and DevOps enthusiast passionate about automation, scalability, and problem-solving. I build projects that make systems efficient, reliable, and easy to manage. Continuously learning, I explore new tools and technologies to grow as a developer and engineer.
+---
+
+### ⚡ About Me
+I’m a **DevOps Enthusiast** focused on building resilient, automated systems. I spend most of my time optimizing CI/CD pipelines, managing Kubernetes clusters, and ensuring systems stay reliable.
+
+- 💬 **Ask me about:** Kubernetes, AWS, Terraform, and Observability.
+- 📫 **Reach me at:** [amithgowda1772@gmail.com](mailto:amithgowda1772@gmail.com)
+
+---
+
+### 🛠️ My Technical Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,python,bash,java,git,mysql,vscode" />
 </p>
 
+---
+
+### 🔥 GitHub Activity & Contributions
+
 <p align="center">
-  <a href="https://github.com/gowdaamith">
-    <img src="https://img.shields.io/github/followers/gowdaamith?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/gowdaamith">
-    <img src="https://img.shields.io/badge/LinkedIn-gowdaamith-blue?logo=linkedin&style=flat-square" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gowdaamith&theme=dracula&area=true&hide_border=true&bg_color=0D1117" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaamith&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowdaamith&show_icons=true&theme=dracula&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gowdaamith&show_icons=true&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/gowdaamith" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amithgowda1772@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amithgowda1772@gmail.com-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/gowdaamith" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<br />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gowdaamith&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gowdaamith)  
-- 💬 Ask me about **DevOps & Cloud**  
-- 📫 Reach me at **amithgowda1772@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/gowdaamith" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowdaamith&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowdaamith&show_icons=true&locale=en&theme=vue&hide_border=true&count_private=true&hide_title=false" alt="GitHub Stats" /></p>
-
----
-
-<h3 align="left">🔥 GitHub Streak & Contributions</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaamith&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gowdaamith&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6d28&area=true&hide_border=false" alt="Activity Graph"/>
-</p>
-
-
-</p> 
-
+<div align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
+</div>
